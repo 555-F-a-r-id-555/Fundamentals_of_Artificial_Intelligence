@@ -19,7 +19,7 @@ DDR3 - 24GB
 AMD Ryzen5 3600
 ASUS DUAL RTX 3050 6 GB
 DDR4 - 32GB
-Возможный варинт замены процессора:Ы
+Возможный варинт замены процессора:
 3.
 AMD Ryzen™ 7 5700G
 ASUS DUAL RTX 3050 6 GB
