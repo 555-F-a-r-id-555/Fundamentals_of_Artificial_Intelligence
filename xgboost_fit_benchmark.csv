@@ -1,0 +1,18 @@
+"# Тест запущен: 2025-05-01 19:11:52, CPU: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel"
+n_samples,fit_time_seconds
+50000,0.709
+100000,0.949
+250000,1.7655
+500000,3.5077
+750000,5.0153
+1000000,7.2634
+
+"# Test started: 2025-05-01 19:18:09, CPU: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel"
+n_samples,fit_time_seconds
+50000,0.637
+100000,0.932
+250000,1.671
+500000,3.223
+750000,4.7742
+1000000,6.3619
+
