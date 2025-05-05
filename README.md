@@ -251,7 +251,7 @@ III.
 
 ![ИИ](https://www.osp.ru/FileStorage/ARTICLE/Otkrytye_sistemy._SUBD/2024-03/01_24/13254950/Otkrytye_sistemy._SUBD_OS_01-2024-20_(1586).jpg "Создание ИИ")
 
-Для знатаков:
+Для знатоков:
 ![ИИ](https://ic.pics.livejournal.com/1500py470/62383590/1225213/1225213_original.jpg "Техналогии ИИ")
 
 
