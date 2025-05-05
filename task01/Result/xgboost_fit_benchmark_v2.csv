@@ -1,0 +1,19 @@
+# Данные для PC1 (старый компьютер)
+
+"# Test started: 2025-05-01 20:31:19, Device: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel, Method: CPU"
+n_samples,fit_time_seconds
+50000,0.845
+100000,1.127
+250000,1.892
+500000,3.8076
+750000,5.2663
+1000000,6.528
+
+"# Test started: 2025-05-01 20:31:19, Device: NVIDIA GeForce GTX 750 Ti, Method: CUDA"
+n_samples,fit_time_seconds
+50000,1.2448
+100000,1.3779
+250000,2.3482
+500000,3.7015
+750000,5.0203
+1000000,6.446
