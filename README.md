@@ -356,7 +356,7 @@ c) Сбор и управление данными. Проанализируйт
 ```
 
 
- Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
+ Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/issues/1
 ![ИИ](https://private-user-images.githubusercontent.com/121765005/440823118-46eddf67-a0e4-432a-bf06-3f1af6ed355d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDIxMjksIm5iZiI6MTc0NjU0MTgyOSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTE4LTQ2ZWRkZjY3LWEwZTQtNDMyYS1iZjA2LTNmMWFmNmVkMzU1ZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDMwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMzE3YTYxOWFmMjVlNGI0ZjNiNTQ3MDg1MjAyMDNhMjNiNmJjOTczZWRmMmZjODVhNWRmNTIwMjA1MzhlMWRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yrUj0IgKXTFibcSb1OyDNzHSb-c4JJoIo71pVNZoX1MA "OpenCV imsges ИИ")
 
  Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
