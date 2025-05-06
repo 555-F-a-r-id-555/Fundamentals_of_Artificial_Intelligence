@@ -33,7 +33,7 @@
 CPU на PC2 быстрее почти в 2 раза, особенно на больших выборках.
 GPU: на миллион строк RTX 3050 обучает модель в 3.5 раза быстрее, чем старенькая GTX 750 Ti.***
 
-![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task01/Result/xgb_fit_comparison.png?token=GHSAT0AAAAAADDLRCATZPV6KIU3VHD6M7IY2AZ6LCQ "выбор железа для ИИ")
+![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task01/Result/xgb_fit_comparison.png?token=GHSAT0AAAAAADDLRCATSSSJIRZ5TFHF4FW42A2ACBQ "выбор железа для ИИ")
 
 ```text
 Какими минимальными характеристиками должен обладать 
