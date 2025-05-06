@@ -399,7 +399,7 @@ c) Сбор и управление данными. Проанализируйт
         * holistic – полный трек: лицо, руки, тело. 
     * В результате получается :
     https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/06.png
-    ![OpenCV images](https://private-user-images.githubusercontent.com/121765005/440823122-12fa3dc3-b567-4f5e-aa0a-78c4513be071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDI4NTUsIm5iZiI6MTc0NjU0MjU1NSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTIyLTEyZmEzZGMzLWI1NjctNGY1ZS1hYTBhLTc4YzQ1MTNiZTA3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDQyMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDQ1MmNlMjIzNjQ5NmM3ZGVkZGEwMzNiYWNiOWExNGZjYmZkMDZiOTkyNzY5NGNjZjY5NTM3NmQyMmZjZTQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lMigh8fdKOo_IWJg3j5XEUhGQqrMRMpDTPKWyGRbd80 "OpenCV imsges ИИ")
+    ![OpenCV images](https://private-user-images.githubusercontent.com/121765005/440823120-cc1c8277-9303-4922-9951-c15b3eb17e6f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDIxMjksIm5iZiI6MTc0NjU0MTgyOSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTIwLWNjMWM4Mjc3LTkzMDMtNDkyMi05OTUxLWMxNWIzZWIxN2U2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDMwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOWZlZmE0NTFlNzQ2ZDFlOTI3ZTVjZGQ5M2M5M2IxZTdkMTNjYmVkNDFhYTI1YmU3OGJmOTllMjE3ZDZhNDdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.l0cC2AjXRU-p0FymqZQoRPByHSHEplOeZKdU6uVo4QE "OpenCV imsges ИИ")
 3) Третий вариант   YOLO (You Only Look Once) v3(у меня показал лучший результат):
     * from ultralytics import YOLO
     * Запускаю, тот же video.py, только v3
@@ -409,7 +409,7 @@ c) Сбор и управление данными. Проанализируйт
     * Легко интегрируется через ultralytics/yolov5 или yolov8.
     * В результате получается :
     https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/08.png
-    ![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/06.png?token=GHSAT0AAAAAADDLRCATK6CDNRGCEEGGGNPE2A2CA2Q "OpenCV imsges ИИ")
+    ![OpenCV images](https://private-user-images.githubusercontent.com/121765005/440823122-12fa3dc3-b567-4f5e-aa0a-78c4513be071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDI4NTUsIm5iZiI6MTc0NjU0MjU1NSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTIyLTEyZmEzZGMzLWI1NjctNGY1ZS1hYTBhLTc4YzQ1MTNiZTA3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDQyMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDQ1MmNlMjIzNjQ5NmM3ZGVkZGEwMzNiYWNiOWExNGZjYmZkMDZiOTkyNzY5NGNjZjY5NTM3NmQyMmZjZTQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lMigh8fdKOo_IWJg3j5XEUhGQqrMRMpDTPKWyGRbd80 "OpenCV imsges ИИ")
 
 4) Есть еще вариант от OpenPose (от Carnegie Mellon University) (этот виант я не протестировал):
     * Распознаёт все ключевые точки скелета человека
