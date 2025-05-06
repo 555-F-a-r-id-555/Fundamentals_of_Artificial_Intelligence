@@ -378,7 +378,7 @@ c) Сбор и управление данными. Проанализируйт
 * запускаю image.py
 * В результате получается нечто подобное:
  Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/04.jpg
-![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/04.jpg?token=GHSAT0AAAAAADDLRCATBAABDQL57KMRHGCO2A2AGWA "OpenCV imsges ИИ")
+![OpenCV images](https://private-user-images.githubusercontent.com/121765005/440823118-46eddf67-a0e4-432a-bf06-3f1af6ed355d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDI1MDAsIm5iZiI6MTc0NjU0MjIwMCwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTE4LTQ2ZWRkZjY3LWEwZTQtNDMyYS1iZjA2LTNmMWFmNmVkMzU1ZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDM2NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMTJjYzMzMzFhMWMwNTE1MmUwZmIyZGU4MWU4NGVmOWQzNTgzNDg5ZTkyMGQ2OTBiOTk5ZWM3MDg2MmJjOTkxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UckmnnTinqm4yK0lPhMTMXqP4j4V8MqodE4OLxk7qp8 "OpenCV imsges ИИ")
 
 Для распознавания тела человека:
 
@@ -388,7 +388,7 @@ c) Сбор и управление данными. Проанализируйт
     * запускаю video.py
     *  В результате получается :
     Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/05.png
-    ![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/05.png?token=GHSAT0AAAAAADDLRCATQATM7VMRBFTGKVP62A2BX7A "OpenCV imsges ИИ")
+    ![OpenCV images](https://private-user-images.githubusercontent.com/121765005/440823121-e8f41de0-c0bb-4f9f-bb62-dd2016c4bd5a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDIxMjksIm5iZiI6MTc0NjU0MTgyOSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTIxLWU4ZjQxZGUwLWMwYmItNGY5Zi1iYjYyLWRkMjAxNmM0YmQ1YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDMwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTE1MjNjMmVjZjk3ODczNmI2YjYzMWM5NDA3ZDVlMzMxZDA0YjkzYzJhNDhhYTBmNDczNzExOGQ5MDQ0ZmZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NikLFUyIqefZgNUB0NcWHRsyaoJ0Z-t-gOHOXKT0ICE "OpenCV imsges ИИ")
 
 2) Второй вариант MediaPipe (от Google) v2:
     * Очень лёгкий и быстрый, можно использовать с веб-камерой.
@@ -399,7 +399,7 @@ c) Сбор и управление данными. Проанализируйт
         * holistic – полный трек: лицо, руки, тело. 
     * В результате получается :
     https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/06.png
-    ![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/06.png?token=GHSAT0AAAAAADDLRCATK6CDNRGCEEGGGNPE2A2CA2Q "OpenCV imsges ИИ")
+    ![OpenCV images](https://private-user-images.githubusercontent.com/121765005/440823122-12fa3dc3-b567-4f5e-aa0a-78c4513be071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDI4NTUsIm5iZiI6MTc0NjU0MjU1NSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTIyLTEyZmEzZGMzLWI1NjctNGY1ZS1hYTBhLTc4YzQ1MTNiZTA3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDQyMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDQ1MmNlMjIzNjQ5NmM3ZGVkZGEwMzNiYWNiOWExNGZjYmZkMDZiOTkyNzY5NGNjZjY5NTM3NmQyMmZjZTQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lMigh8fdKOo_IWJg3j5XEUhGQqrMRMpDTPKWyGRbd80 "OpenCV imsges ИИ")
 3) Третий вариант   YOLO (You Only Look Once) v3(у меня показал лучший результат):
     * from ultralytics import YOLO
     * Запускаю, тот же video.py, только v3
