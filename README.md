@@ -355,14 +355,148 @@ c) Сбор и управление данными. Проанализируйт
 
 ```
 
- Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
-![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/04.jpg?token=GHSAT0AAAAAADDLRCATBAABDQL57KMRHGCO2A2AGWA "OpenCV imsges ИИ")
 
  Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
-![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/05.png?token=GHSAT0AAAAAADDLRCATO4TUIJLX4RF2U56A2A2AHIA "OpenCV video ИИ")
+![ИИ](https://private-user-images.githubusercontent.com/121765005/440823118-46eddf67-a0e4-432a-bf06-3f1af6ed355d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDIxMjksIm5iZiI6MTc0NjU0MTgyOSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTE4LTQ2ZWRkZjY3LWEwZTQtNDMyYS1iZjA2LTNmMWFmNmVkMzU1ZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDMwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMzE3YTYxOWFmMjVlNGI0ZjNiNTQ3MDg1MjAyMDNhMjNiNmJjOTczZWRmMmZjODVhNWRmNTIwMjA1MzhlMWRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yrUj0IgKXTFibcSb1OyDNzHSb-c4JJoIo71pVNZoX1MA "OpenCV imsges ИИ")
 
  Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
-![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/06.png?token=GHSAT0AAAAAADDLRCAS44C7OPGM2JRMYPX42A2AIHQ "OpenCV video ИИ")
+![ИИ](https://private-user-images.githubusercontent.com/121765005/440823121-e8f41de0-c0bb-4f9f-bb62-dd2016c4bd5a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDIxMjksIm5iZiI6MTc0NjU0MTgyOSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTIxLWU4ZjQxZGUwLWMwYmItNGY5Zi1iYjYyLWRkMjAxNmM0YmQ1YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDMwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTE1MjNjMmVjZjk3ODczNmI2YjYzMWM5NDA3ZDVlMzMxZDA0YjkzYzJhNDhhYTBmNDczNzExOGQ5MDQ0ZmZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NikLFUyIqefZgNUB0NcWHRsyaoJ0Z-t-gOHOXKT0ICE "OpenCV video ИИ")
+
+ Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
+![ИИ](https://private-user-images.githubusercontent.com/121765005/440823120-cc1c8277-9303-4922-9951-c15b3eb17e6f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY1NDIxMjksIm5iZiI6MTc0NjU0MTgyOSwicGF0aCI6Ii8xMjE3NjUwMDUvNDQwODIzMTIwLWNjMWM4Mjc3LTkzMDMtNDkyMi05OTUxLWMxNWIzZWIxN2U2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNlQxNDMwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOWZlZmE0NTFlNzQ2ZDFlOTI3ZTVjZGQ5M2M5M2IxZTdkMTNjYmVkNDFhYTI1YmU3OGJmOTllMjE3ZDZhNDdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.l0cC2AjXRU-p0FymqZQoRPByHSHEplOeZKdU6uVo4QE "OpenCV video ИИ")
+
+
+Далее попробую использовать заранее обученную модель для распознования распознавания лица или тела человека.
+
+Устанговим небходимые pip пакеты:
+1) pip install opencv-python 
+2) pip install mediapipe opencv-python
+3) pip install ultralytics opencv-python
+
+Для распознания лиц:
+* import cv2
+* запускаю image.py
+* В результате получается нечто подобное:
+ Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/04.jpg
+![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/04.jpg?token=GHSAT0AAAAAADDLRCATBAABDQL57KMRHGCO2A2AGWA "OpenCV imsges ИИ")
+
+Для распознавания тела человека:
+
+1) Первый варинт v1:
+    * import cv2
+    * Haar Cascade Classifiers из OpenCV, но они достаточно устарели и не очень надёжны для современных задач, особенно при плохом освещении или разных ракурсах. Лучше использовать более современные и обученные модели.
+    * запускаю video.py
+    *  В результате получается :
+    Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/05.png
+    ![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/05.png?token=GHSAT0AAAAAADDLRCATQATM7VMRBFTGKVP62A2BX7A "OpenCV imsges ИИ")
+
+2) Второй вариант MediaPipe (от Google) v2:
+    * Очень лёгкий и быстрый, можно использовать с веб-камерой.
+    * import mediapipe as mp
+    * запускаю, тот же video.py, только v2
+    * Компоненты:
+        * pose – определяет тело и ключевые точки (33 точки).
+        * holistic – полный трек: лицо, руки, тело. 
+    * В результате получается :
+    https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/06.png
+    ![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/06.png?token=GHSAT0AAAAAADDLRCATK6CDNRGCEEGGGNPE2A2CA2Q "OpenCV imsges ИИ")
+3) Третий вариант   YOLO (You Only Look Once) v3(у меня показал лучший результат):
+    * from ultralytics import YOLO
+    * Запускаю, тот же video.py, только v3
+    * Обнаруживает объекты, включая человека (label: person).
+    * Высокая точность и скорость.
+    * Подходит для обнаружения тел (bounding boxes), но не даёт ключевых точек.
+    * Легко интегрируется через ultralytics/yolov5 или yolov8.
+    * В результате получается :
+    https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task02/screenshots/08.png
+    ![OpenCV images](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/06.png?token=GHSAT0AAAAAADDLRCATK6CDNRGCEEGGGNPE2A2CA2Q "OpenCV imsges ИИ")
+
+4) Есть еще вариант от OpenPose (от Carnegie Mellon University) (этот виант я не протестировал):
+    * Распознаёт все ключевые точки скелета человека
+    * Поддерживает несколько людей в кадре.
+    * Работает на C++, Python.
+    * Есть Python-обёртки: openpose-python, tf-pose-estimation, mediapipe.
+    *  Подходит для: skeleton detection, posture analysis, multi-person detection.
+    * Сыылка на источник: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+    
+    Требования для OpenPose:
+    *  официальной инструкции: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md
+    * ОС: Ubuntu или Windows (WSL или CMake-сборка)
+    * GPU (желательно)
+    * CMake, CUDA, OpenCV, Python 3.8–3.10
+    * Обязательная компиляция из исходников
+
+5) Вывод:
+    * YOLOv8: Bounding box человека — подойдёт для обнаружения и подсчёта людей.
+    * MediaPipe: Ключевые точки тела — отлично для анализа поз, жестов, движения.
+
+
+***Исследование технологических требований***
+
+***a) Требования к аппаратному обеспечению***
+Для эффективной работы OpenCV с ИИ (особенно при использовании таких моделей, как YOLO или OpenPose) требуются следующие компоненты:
+* Минимальные требования:
+* CPU: Intel i5 / AMD Ryzen 5 (или выше) — для базовой обработки изображений.
+* RAM: от 8 ГБ — для работы с видео в реальном времени.
+* Хранилище: SSD от 20–50 ГБ для хранения видео, моделей, логов.
+* GPU (желательно):
+    * Для задач распознавания в реальном времени желательно использовать GPU с поддержкой CUDA (например, NVIDIA GTX 1050 и выше).
+    * OpenPose и YOLOv8 значительно выигрывают от ускорения на GPU.
+
+* Опционально:
+    * TPU / NPU (например, Google Coral, Jetson Nano) — для edge-решений и ускоренной обработки на устройствах IoT.
+    * Камеры высокого разрешения — если задача требует точного позиционирования тела.
+
+***b) Программное обеспечение***
+
+| Компонент                        | Назначение                                         |
+| -------------------------------- | -------------------------------------------------- |
+| **Python (3.8–3.11)**            | Основной язык разработки                           |
+| **OpenCV (cv2)**                 | Обработка изображений и видео                      |
+| **Модели ИИ**                    | YOLO, MediaPipe, OpenPose                          |
+| **CUDA Toolkit** (если есть GPU) | Для ускорения глубокого обучения на NVIDIA GPU     |
+| **CMake + Visual Studio / gcc**  | Для сборки OpenPose из исходников                  |
+| **OS**: Windows / Linux          | Оба подходят, но OpenPose легче собирать под Linux |
+
+* Библиотеки и инструменты:
+    * ultralytics, mediapipe, torch, numpy, opencv-python, matplotlib (по необходимости)
+    * Для OpenPose — требуется собрать C++-библиотеку с Python API.
+
+* IDE / Среды разработки:
+    * VS Code, PyCharm, Jupyter Notebook — для разработки и отладки
+    * Docker (опционально) — для портативности и изоляции окружения
+
+***c) Сбор и управление данными***
+* Требования к данным:
+    *   Тип данных: изображения или видео (форматы: .mp4, .avi, .jpg, .png)
+    *   Размер: может быть от нескольких МБ до десятков ГБ при длительной записи с камер
+
+* Качество данных:
+    *   Высокое разрешение улучшает точность распознавания
+    *   Освещение, ракурсы и шумы могут повлиять на эффективность моделей
+
+* Хранение и обработка:
+    *   Локальное SSD хранилище или подключённые хранилища (NAS)
+    *   Поддержка потоковой обработки (например, с IP-камер или RTSP)
+
+* Конфиденциальность и защита:
+*   При работе с персональными изображениями — нужно соблюдать:
+    *   GDPR, локальные законы о защите персональных данных
+    *   Применение анонимизации (размытие лиц, маскировка)
+    *   Контроль доступа к хранилищам и логам
+
+* Итог:
+
+| Категория                   | Требования                                                             |
+| --------------------------- | ---------------------------------------------------------------------- |
+| **Аппаратное обеспечение**  | CPU i5+, GPU CUDA (если real-time), RAM ≥8 ГБ, SSD ≥50 ГБ              |
+| **Программное обеспечение** | Python, OpenCV, Ultralytics/MediaPipe/OpenPose, CUDA, CMake            |
+| **Данные**                  | Качественные изображения/видео, разумное хранилище, конфиденциальность |
+
+
+
+
+
 
 
 ### DZ3
