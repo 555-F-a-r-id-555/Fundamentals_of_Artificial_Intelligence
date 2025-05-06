@@ -33,6 +33,7 @@
 CPU на PC2 быстрее почти в 2 раза, особенно на больших выборках.
 GPU: на миллион строк RTX 3050 обучает модель в 3.5 раза быстрее, чем старенькая GTX 750 Ti.***
 
+Источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/blob/main/task01/Result/xgb_fit_comparison.png
 ![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task01/Result/xgb_fit_comparison.png?token=GHSAT0AAAAAADDLRCATSSSJIRZ5TFHF4FW42A2ACBQ "выбор железа для ИИ")
 
 ```text
@@ -353,6 +354,16 @@ c) Сбор и управление данными. Проанализируйт
 Обсудите любые ограничения и трудности, которые могут помешать успешной реализации.
 
 ```
+
+ Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
+![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/04.jpg?token=GHSAT0AAAAAADDLRCATBAABDQL57KMRHGCO2A2AGWA "OpenCV imsges ИИ")
+
+ Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
+![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/05.png?token=GHSAT0AAAAAADDLRCATO4TUIJLX4RF2U56A2A2AHIA "OpenCV video ИИ")
+
+ Ссылка на источник: https://github.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/tree/main/task02/screenshots
+![ИИ](https://raw.githubusercontent.com/555-F-a-r-id-555/Fundamentals_of_Artificial_Intelligence/refs/heads/main/task02/screenshots/06.png?token=GHSAT0AAAAAADDLRCAS44C7OPGM2JRMYPX42A2AIHQ "OpenCV video ИИ")
+
 
 ### DZ3
 ```txt
