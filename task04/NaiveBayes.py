@@ -1,3 +1,4 @@
+# алгоритм naive bayes для определения спама
 from typing import Set, NamedTuple, List, Tuple, Dict, Iterable
 import re
 import math
